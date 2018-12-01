@@ -1,8 +1,8 @@
 body { padding-top:30px; 
 background-color: grey;
 color: white;
-border: 10px greenyellow;
 }
 h1 {
     color: indigo;
+    border: 10px greenyellow;
 }
