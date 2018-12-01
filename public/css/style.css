@@ -1,8 +1,10 @@
 body { padding-top:30px; 
 background-color: grey;
-color: white;
+font-display: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 h1 {
     color: indigo;
-    border: 10px greenyellow;
+    border: solid 10px greenyellow;
 }
